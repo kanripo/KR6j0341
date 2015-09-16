@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說普賢曼拏羅經
+#+DATE: 2015-08-30 20:30:33.174423
+#+PROPERTY: JUAN 0
