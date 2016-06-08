@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:33.001025
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:54
 #+TITLE: 佛說普賢曼拏羅經
 #+PROPERTY: CBETA_ID T20n1126
 #+PROPERTY: ID KR6j0341
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1126
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0341_T_000-0539a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0341_T_001-0539a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1126¶
-
- 佛說普賢曼拏羅經¶
+No. 1126¶
+佛說普賢曼拏羅經¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿¶
 傳法大師臣施護奉　詔譯¶
@@ -87,9 +86,9 @@ No.1126¶
 　曼拏與香華
 　及餘供養具¶
 　因此目瞻視
-　去垢成清淨
+　去垢成清淨」
 #+END_VERSE
-」¶
+¶
 
 金剛視密言曰。¶
 
@@ -289,9 +288,9 @@ No.1126¶
 　金剛拳妙意
 　金剛縛解脫¶
 　金剛拳平等
-　堅固拳頂禮
+　堅固拳頂禮」
 #+END_VERSE
-」¶
+¶
 
 由稱念此一百八名最上句故。是得一切最¶
 初灌頂故。若有於此名能尊重讚歎者。是受¶
